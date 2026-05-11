@@ -1,2 +1,2 @@
-# coding-project-template
+# Front-end react project
 name: e-plantShopping
